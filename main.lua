@@ -1,5 +1,5 @@
 --[[
-    AUTOTYPER- ROLEY (INSTANT-RESPONSE)
+    AUTOTYPER- isntroley (INSTANT-RESPONSE)
     - Full indexing for all word lengths.
     - Fixed Killer Mode toggle.
     - Humanized Acceleration & Discord Join.
